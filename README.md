@@ -1,9 +1,9 @@
 # Olá, Jeanderson aqui 👋
 
-Desenvolvedor Fullstack com foco em **Elixir, Phoenix e LiveView**, de Feira de Santana, BA.
+Desenvolvedor Fullstack com foco em **Elixir, Phoenix e LiveView** 💜, de Feira de Santana, BA.
 Trabalho com backend de SaaS e integração de APIs.
 
-## Experiência recente
+## 💼 Experiência recente
 
 Nos últimos 3 anos Atuei como desenvolvedor num SaaS de Food Service, onde fui responsável por:
 
@@ -11,7 +11,7 @@ Nos últimos 3 anos Atuei como desenvolvedor num SaaS de Food Service, onde fui 
 - **Homologação** das integrações e controle de qualidade
 - Deploy e operação da aplicação no **Fly.io**, com CI/CD no **GitHub Actions**
 
-## Stack
+## 🛠️ Stack
 
 | Área | Tecnologias |
 | --- | --- |
@@ -20,12 +20,7 @@ Nos últimos 3 anos Atuei como desenvolvedor num SaaS de Food Service, onde fui 
 | Processamento em segundo plano | Oban |
 | Qualidade e entrega | ExUnit, GitHub Actions, Docker, Fly.io |
 
-## Formação
+## 🎓 Formação
 
 - **Mestrado em Ciência da Computação**, UEFS (em andamento)
 - **Licenciatura em Computação**, IFBA (concluída em 2022)
-
-## Contato
-
-- LinkedIn: [/in/jeanderson-almeida](https://www.linkedin.com/in/jeanderson-almeida)
-- E-mail: [jeanderson.2315@gmail.com](mailto:jeanderson.2315@gmail.com)
