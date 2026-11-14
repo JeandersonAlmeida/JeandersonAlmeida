@@ -33,6 +33,5 @@ Nos últimos 3 anos Atuei como desenvolvedor num SaaS de Food Service, onde fui 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![E-mail](https://img.shields.io/badge/E--mail-555555?style=for-the-badge)](mailto:SEU-EMAIL-AQUI)
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=JeandersonAlmeida&label=Profile%20views&color=0e75b6&style=for-the-badge)
