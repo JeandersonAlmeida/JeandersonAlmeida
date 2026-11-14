@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, Jeanderson aqui 👋
 
-<!--
-**JeandersonAlmeida/JeandersonAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack com foco em **Elixir, Phoenix e LiveView**, de Feira de Santana, BA.
+Trabalho com backend de SaaS e integração de APIs.
 
-Here are some ideas to get you started:
+## Experiência recente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nos últimos 3 anos Atuei como desenvolvedor num SaaS de Food Service, onde fui responsável por:
+
+- Integração com as APIs do **iFood** e do **WhatsApp**
+- **Homologação** das integrações e controle de qualidade
+- Deploy e operação da aplicação no **Fly.io**, com CI/CD no **GitHub Actions**
+
+## Stack
+
+| Área | Tecnologias |
+| --- | --- |
+| Linguagem e frameworks | Elixir, Phoenix, LiveView, Ash Framework |
+| Dados | Ecto, PostgreSQL, MySQL |
+| Processamento em segundo plano | Oban |
+| Qualidade e entrega | ExUnit, GitHub Actions, Docker, Fly.io |
+
+## Formação
+
+- **Mestrado em Ciência da Computação**, UEFS (em andamento)
+- **Licenciatura em Computação**, IFBA (concluída em 2022)
+
+## Contato
+
+- LinkedIn: [/in/jeanderson-almeida](https://www.linkedin.com/in/jeanderson-almeida)
+- E-mail: [jeanderson.2315@gmail.com](mailto:jeanderson.2315@gmail.com)
